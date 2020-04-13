@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/about-maha/static/css/main.5f361e03.chunk.css",
+    "main.js": "/about-maha/static/js/main.1a254afe.chunk.js",
+    "main.js.map": "/about-maha/static/js/main.1a254afe.chunk.js.map",
+    "runtime-main.js": "/about-maha/static/js/runtime-main.71784ec6.js",
+    "runtime-main.js.map": "/about-maha/static/js/runtime-main.71784ec6.js.map",
+    "static/js/2.e6a19629.chunk.js": "/about-maha/static/js/2.e6a19629.chunk.js",
+    "static/js/2.e6a19629.chunk.js.map": "/about-maha/static/js/2.e6a19629.chunk.js.map",
+    "index.html": "/about-maha/index.html",
+    "precache-manifest.83149c6c216eafabfee075fa30a0983c.js": "/about-maha/precache-manifest.83149c6c216eafabfee075fa30a0983c.js",
+    "service-worker.js": "/about-maha/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/about-maha/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e6a19629.chunk.js.LICENSE.txt": "/about-maha/static/js/2.e6a19629.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/about-maha/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71784ec6.js",
+    "static/js/2.e6a19629.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.1a254afe.chunk.js"
+  ]
+}
